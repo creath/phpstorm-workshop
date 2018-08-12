@@ -6,11 +6,6 @@
       <behat_by_interpreter interpreter_id="e8038bd5-a5f7-4bd5-9b10-cf1c8014f5ea" behat_path="/home/vagrant/.composer/vendor/behat/behat/bin/behat" />
     </behat_settings>
   </component>
-  <component name="BehatInfoCache">
-    <behat_settings>
-      <info name="Interpreter: Remote PHP 7" version="2.5.5" />
-    </behat_settings>
-  </component>
   <component name="PhpInterpreters">
     <interpreters>
       <interpreter home="sftp://vagrant@192.168.56.102:22/usr/bin/php" id="e8038bd5-a5f7-4bd5-9b10-cf1c8014f5ea" name="Remote PHP 7" debugger_id="php.debugger.XDebug">
